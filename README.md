@@ -1,2 +1,2 @@
 # aiagent
-This is a aiagent using Google's gemini
+This is an aiagent using Google's gemini
